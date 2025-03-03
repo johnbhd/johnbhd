@@ -1,6 +1,11 @@
 <h1 align="center">💻 JB Villegas | MERN Stack & Nextjs | Full-Stack Dev</h1>
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=johnbhd">
+    <img src="https://api.visitorbadge.io/api/visitors?path=johnbhd&label=viewer&labelColor=%23697689&countColor=%23d9e3f0"/>
+  </a>
+</p>
 
-<br clear="both">
+
 
 I'm a 1st-year BSIT student exploring web development, cybersecurity, and mobile development. Aspiring to become a software engineer.
 

@@ -5,9 +5,10 @@
   </a>
 </p>
 
-
-
-Aspiring software engineer passionate about building high-performance web applications and sharing knowledge, with expertise in MERN stack, Next.js, and cloud-based solutions.
+<div align="center">
+  Software engineer skilled in MERN stack, Next.js, and cloud solutions, focused on high-performance web apps.
+</div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnbhd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -23,6 +24,7 @@ Aspiring software engineer passionate about building high-performance web applic
 ###
 
 <div align="center" style="margin-right: 20px;">
+  <h2>Technologies, Tools, and Platforms</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -59,6 +61,7 @@ Aspiring software engineer passionate about building high-performance web applic
 ###
 
 <div align="center">
+
   <a href = "">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -92,12 +95,11 @@ Aspiring software engineer passionate about building high-performance web applic
 <div align="center">
 
 ###
-<!--
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johnbhd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnbhd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbhd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
--->
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

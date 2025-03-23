@@ -17,10 +17,10 @@
 
 ###
 
-<br clear="both">
 
+<!--
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cya34av1rhkt594nt0dudl8e02c140wl8t8tg1y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
+-->
 ###
 
 <div align="center" style="margin-right: 20px;">
@@ -58,7 +58,7 @@
   <img width="12" />-->
 </div>
 
-###
+
 
 <div align="center">
 
@@ -102,8 +102,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=johnbhd&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+-->
 </div>

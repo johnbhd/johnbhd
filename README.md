@@ -15,15 +15,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnbhd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 
 <!--
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cya34av1rhkt594nt0dudl8e02c140wl8t8tg1y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 -->
-###
 
-<div align="center" style="margin-right: 20px;">
+
+<div align="center" >
   <h2>Technologies, Tools, and Platforms</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -58,9 +56,9 @@
   <img width="12" />-->
 </div>
 
+<br>
 
-
-<div align="center">
+<div align="center" >
 
   <a href = "">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -82,7 +80,7 @@
     </a>-->
   </div>
 
-###
+
 
 <br clear="both">
 <div align="center">
@@ -94,7 +92,7 @@
 </div>
 <div align="center">
 
-###
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnbhd&theme=dark&hide_border=false)<br/>

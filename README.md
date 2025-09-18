@@ -32,7 +32,7 @@
   </a>
 </p>
 
-## Platforms
+## 🌐 Platforms
 <div>
 
   <a href = "https://www.linkedin.com/in/john-benedict-villegas-701890318/" target="_blank" rel="noopener noreferrer">
@@ -55,7 +55,16 @@
     </a>-->
   </div>
 
-
+## 🚀 Projects
+- **🛍️ Ecommerce - CozyCoCart**  
+  Tech: JavaScript (Vanilla), HTML, CSS  
+  > Lightweight eCommerce platform featuring LocalStorage CRUD, product management, simulated login/signup, and responsive UI.  
+  🔗 [Repository](https://github.com/johnbhd/CozyCoCart) | 🌐 [Live Demo](https://cozycocart.vercel.app/homepage.html).
+  > 
+- **🎮 Flic Flac Flow**  
+  Tech: TypeScript, Vite, HTML, CSS
+  > A Tic-Tac-Toe–inspired classic game built to practice **Object-Oriented Programming concepts** and **TypeScript type safety**. Focused on modular code structure and learning fundamentals of OOP.
+  <br> 🔗 [Repository](https://github.com/johnbhd/Flic-Flac-Flow) | 🌐 [Live Demo](https://flicflac.vercel.app/).
 
 <br clear="both">
 <div align="center">
@@ -71,11 +80,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnbhd&theme=dark&hide_border=false)<br/>
+![johnbhd's Stats](https://github-readme-stats.vercel.app/api?username=johnbhd&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+![johnbhd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnbhd&theme=radical&hide_border=true)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnbhd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnbhd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

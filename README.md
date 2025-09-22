@@ -79,7 +79,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=johnbhd&theme=dark&hide_border=false)<br/>
+
 ![johnbhd's Stats](https://github-readme-stats.vercel.app/api?username=johnbhd&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 ![johnbhd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnbhd&theme=radical&hide_border=true)

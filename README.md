@@ -60,11 +60,12 @@
   Tech: JavaScript (Vanilla), HTML, CSS  
   > Lightweight eCommerce platform featuring LocalStorage CRUD, product management, simulated login/signup, and responsive UI.  
   🔗 [Repository](https://github.com/johnbhd/CozyCoCart) | 🌐 [Live Demo](https://cozycocart.vercel.app/homepage.html).
-  > 
-- **🎮 Flic Flac Flow**  
-  Tech: TypeScript, Vite, HTML, CSS
-  > A Tic-Tac-Toe–inspired classic game built to practice **Object-Oriented Programming concepts** and **TypeScript type safety**. Focused on modular code structure and learning fundamentals of OOP.
-  <br> 🔗 [Repository](https://github.com/johnbhd/Flic-Flac-Flow) | 🌐 [Live Demo](https://flicflac.vercel.app/).
+  >
+
+- **📖 AU Library System**  
+  Tech: TypeScript, Next js, Python, Sqlite, firebase
+  > A desktop application using python tkinter, library management system that helps to manage books records and book borrowing.
+<br> 🔗 [Repository](https://github.com/johnbhd/Flic-Flac-Flow) | 🌐 [Live Demo](https://aulibrary-project.vercel.app/). 
 
 <br clear="both">
 <div align="center">

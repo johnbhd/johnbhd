@@ -65,7 +65,7 @@
 - **📖 AU Library System**  
   Tech: TypeScript, Next js, Python, Sqlite, firebase
   > A desktop application using python tkinter, library management system that helps to manage books records and book borrowing.
-<br> 🔗 [Repository](https://github.com/johnbhd/Flic-Flac-Flow) | 🌐 [Live Demo](https://aulibrary-project.vercel.app/). 
+<br> 🔗 [Repository](https://github.com/johnbhd/library-system-py) | 🌐 [Live Demo](https://aulibrary-project.vercel.app/). 
 
 <br clear="both">
 <div align="center">

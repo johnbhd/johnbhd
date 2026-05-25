@@ -14,6 +14,7 @@
 
 <!--
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cya34av1rhkt594nt0dudl8e02c140wl8t8tg1y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+ <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,tailwind,nodejs,express,mongodb,supabase,firebase,python,postgres,cs,dotnet,mysql&perline=12" />
 -->
 
 
@@ -21,14 +22,14 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,tailwind,nodejs,express,mongodb,supabase,firebase,python,postgres,cs,dotnet,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,mongodb,supabase,firebase,postgres,prisma,mysql&perline=12" />
   </a>
 </p>
 
 ## 🛠️ Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,npm,github,docker,postman,vite,vscode,visualstudio,figma,prisma,notion" />
+    <img src="https://skillicons.dev/icons?i=git,npm,github,docker,postman,vite,vscode,visualstudio,figma,notion" />
   </a>
 </p>
 

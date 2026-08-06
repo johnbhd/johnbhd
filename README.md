@@ -42,31 +42,32 @@
   <a href="https://www.youtube.com/@JB-Villegas" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-  <a href="https://www.tiktok.com/@jbvillegas935?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.tiktok.com/@jbvillegas935" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
   </a>
-  <a href = "https://www.facebook.com/profile.php?id=61578463205168&mibextid=ZbWKwL">
+  <a href = "https://www.facebook.com/jbvillegas123">
      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />  
   </a>
-  <a href = "">
+  <a href = "https://www.instagram.com/jbvillegas123">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <!--<a href="https://discordapp.com/users/jbvillegas19#1234" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-    </a>-->
+    </a>
+- **Jubro - Job Application Tracker**  
+  Tech: JavaScript (Vanilla), HTML, Tailwind, Firebase  
+  > Jubro helps students, freelancers, and job seekers organize applications, interviews, and job links in one clean and simple tracker  
+  🔗 [Repository](https://github.com/johnbhd/CozyCoCart) | 🌐 [Live Demo](https://cozycocart.vercel.app/homepage.html).
+  > 
+    -->
   </div>
 
 ## 🚀 Projects
-- **🛍️ Ecommerce - CozyCoCart**  
-  Tech: JavaScript (Vanilla), HTML, CSS  
-  > Lightweight eCommerce platform featuring LocalStorage CRUD, product management, simulated login/signup, and responsive UI.  
-  🔗 [Repository](https://github.com/johnbhd/CozyCoCart) | 🌐 [Live Demo](https://cozycocart.vercel.app/homepage.html).
+- **Jubro - Job Application Tracker**  
+  Tech: JavaScript (Vanilla), HTML, Tailwind, Firebase  
+  > Jubro helps students, freelancers, and job seekers organize applications, interviews, and job links in one clean and simple tracker  
+  🌐 [Live Demo](https://jubro.vercel.app).
   >
-
-- **📖 AU Library System**  
-  Tech: TypeScript, Next js, Python, Sqlite, firebase
-  > A desktop application using python tkinter, library management system that helps to manage books records and book borrowing.
-<br> 🔗 [Repository](https://github.com/johnbhd/library-system-py) | 🌐 [Live Demo](https://aulibrary-project.vercel.app/). 
 
 <br clear="both">
 <div align="center">

@@ -66,7 +66,7 @@
 - **Jubro - Job Application Tracker**  
   Tech: JavaScript (Vanilla), HTML, Tailwind, Firebase  
   > Jubro helps students, freelancers, and job seekers organize applications, interviews, and job links in one clean and simple tracker  
-  🌐 [Live Demo](https://jubro.vercel.app).
+    🔗 [Repository](https://github.com/johnbhd/jubro) | 🌐 [Live Demo](https://jubro.vercel.app).
   >
 
 <br clear="both">

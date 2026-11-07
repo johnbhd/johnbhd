@@ -1,4 +1,4 @@
-<h1 align="center">💻 JB Villegas | MERN Stack & Nextjs | Full-Stack Dev</h1>
+<h1 align="center">💻 JB Villegas | Laravel & Nextjs | Full-Stack Dev</h1>
 <p align="center">
   <a href="https://visitorbadge.io/status?path=johnbhd">
     <img src="https://api.visitorbadge.io/api/visitors?path=johnbhd&label=viewer&labelColor=%23697689&countColor=%23d9e3f0"/>
@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  Full Stack Web Developer skilled in MERN and Next.js, building fast, SEO-friendly web apps.
+  Full Stack Web Developer skilled in Laravel and Next.js, building fast, scalable, SEO-friendly web apps.
 </div>
 <br>
 
@@ -22,7 +22,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,laravel,python,postgres,mysql,mongodb,supabase,firebase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,laravel,python,postgres,mysql,mongodb,supabase,firebase,prisma&perline=12" />
   </a>
 </p>
 
@@ -51,6 +51,9 @@
   <a href = "https://www.instagram.com/jbvillegas123">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href = "https://x.com/JBVillegas123">
+      <img src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
   <!--<a href="https://discordapp.com/users/jbvillegas19#1234" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
     </a>
@@ -67,8 +70,16 @@
   Tech: JavaScript (Vanilla), HTML, Tailwind, Firebase  
   > Jubro helps students, freelancers, and job seekers organize applications, interviews, and job links in one clean and simple tracker  
     🔗 [Repository](https://github.com/johnbhd/jubro) | 🌐 [Live Demo](https://jubro.vercel.app).
-  >
 
+- **ALD Motorshop - Motorcycle Parts Ordering & Delivery System**  
+  Tech: Next.js, Laravel, Supabase PostgreSQL, Tailwind CSS, Laravel Sanctum  
+  > ALD Motorshop is a full-stack motorcycle parts ordering platform where customers can browse Honda, Yamaha, and Suzuki parts, place orders, upload payment proof, request store pickup or Lalamove delivery, track orders, and communicate with staff. Admin and staff dashboards handle products, orders, payments, deliveries, customers, reports, and AI-assisted messaging.  
+   🔗 [Repository](https://github.com/johnbhd/online-motorshop) | 🌐 [Live Demo](https://aldmotorshop.vercel.app).
+
+- **Employee Management Integration System - HRIS, Accounting, Payroll, Attendance QR**  
+  Tech: Next.js, TypeScript, Prisma, Supabase PostgreSQL, Firebase Authentication  
+  > An employee management integration system for Arellano University – Juan Sumulong Campus that connects HRPS employee data, Bundy Clock logs, QR based attendance, Payroll, and Accounting into one unified workflow for non-teaching employees. It supports attendance validation and corrections, HR verification, payroll processing readiness, accounting handoff, role-based access, and integration monitoring.
+  <br>🔗 [Repository](https://github.com/johnbhd/employee-management-system) | 🌐 [Live Demo](https://aujsc-sia.vercel.app).
 <br clear="both">
 <div align="center">
   <picture>
